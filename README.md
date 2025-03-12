@@ -48,7 +48,7 @@ npm start
 🔗 [View Community Post](http://youtube.com/post/Ugkx1rdJ0vRX7pPmilqZqyJQd_Rx_9TCApBN?si=LUWFbXJLnOCR4M4P) – Join the discussion, share your thoughts, and engage with the Memeverse community!  
 
 ## 🎥 Watch the Demo  
-👉 **[Click here to watch the demo]([https://youtube.com/shorts/yoVjHuJ0ce4](https://youtube.com/shorts/yoVjHuJ0ce4))** – A quick short video demonstrating the core features of Memeverse in action!  
+👉 **[Click here to watch the demo](https://youtube.com/shorts/yoVjHuJ0ce4)** – A quick short video demonstrating the core features of Memeverse in action!  
 
 ## 🌎 Environment Variables
 
