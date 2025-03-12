@@ -25,6 +25,9 @@ npm install
 
 ## 🔥 Running the Project
 
+## Live Demo
+Check out the live version of the project here: [Memeverse](https://v0-memeverse-gamma.vercel.app/)
+
 For development mode:
 
 ```bash
