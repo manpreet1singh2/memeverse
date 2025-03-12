@@ -43,12 +43,15 @@ For production mode:
 npm run build
 npm start
 ```
-🎬 Video Showcase
-📺 Watch the project in action:
-🔗 YouTube Video
+## 🎬 Video Showcase  
+📺 **Watch the project in action:**  
+🔗 [Watch on YouTube](https://youtu.be/L2JkP35kU3k) – A detailed demo of how Memeverse works, showcasing the UI, features, and functionalities in action.  
 
-📢 Check out my YouTube Community Post:
-🔗 Community Post
+📢 **Check out my YouTube Community Post:**  
+🔗 [View Community Post](http://youtube.com/post/Ugkx1rdJ0vRX7pPmilqZqyJQd_Rx_9TCApBN?si=LUWFbXJLnOCR4M4P) – Join the discussion, share your thoughts, and engage with the Memeverse community!  
+
+## 🎥 Watch the Demo  
+👉 **[Click here to watch the demo](https://youtube.com/shorts/yoVjHuJ0ce4)** – A quick short video demonstrating the core features of Memeverse in action!  
 
 ## 🌎 Environment Variables
 
