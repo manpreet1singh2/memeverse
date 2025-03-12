@@ -3,6 +3,9 @@
 ## 📌 Project Description
 A meme-sharing platform built with Next.js
 
+## 🎥 Watch the Demo  
+👉 [Click here to watch the demo](https://youtube.com/shorts/yoVjHuJ0ce4)  
+
 ## 🚀 Tech Stack
 - **Frontend:** Next.js, React, TailwindCSS
 - **Backend:** Node.js, Express.js (if applicable)
@@ -40,6 +43,12 @@ For production mode:
 npm run build
 npm start
 ```
+🎬 Video Showcase
+📺 Watch the project in action:
+🔗 YouTube Video
+
+📢 Check out my YouTube Community Post:
+🔗 Community Post
 
 ## 🌎 Environment Variables
 
